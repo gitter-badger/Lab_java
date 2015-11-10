@@ -1,4 +1,4 @@
-package paulshushpan.j_lab1;
+package com.gmail.pavelshushpan;
 
 
 public class Test extends ÑalculationDivider{

@@ -1,4 +1,4 @@
-package paulshushpan.j_lab1;
+package com.gmail.pavelshushpan;
 import java.util.Scanner;
 import java.util.Vector;
 import java.io.*;

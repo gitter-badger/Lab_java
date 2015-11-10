@@ -1,5 +1,5 @@
-package paulshushpan.j_lab1;
-import paulshushpan.j_lab1.*;
+package com.gmail.pavelshushpan;
+import com.gmail.pavelshushpan.*;
 
 public class Main {
 	public static void main(String[] args){
